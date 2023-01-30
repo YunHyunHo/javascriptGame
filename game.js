@@ -123,3 +123,4 @@ function 충돌하냐(dino, cactus){
     cancelAnimationFrame(animation)
   }
 }
+// 추 후 수정예정
